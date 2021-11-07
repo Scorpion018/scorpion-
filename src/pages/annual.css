@@ -1,0 +1,36 @@
+div{
+    color: white;
+}
+h1{
+    color: white;
+}
+
+.ex1{
+    background-color: blue;
+    /* background-image: url("src/assets/logo.png"); */
+    height: 300px;
+    width: 200px;
+}
+
+.npx{
+    background-color: white;
+    color: black;
+    height: 40px;
+    display: flex;
+    margin-left: 40%;
+    margin-right: 40%;
+    /* align-items: center; */
+    text-align: right;
+    font-size: large;
+}
+
+img{
+    margin-left: 2%;
+}
+
+ul li{
+    color: white;
+    align-items: center;
+    /* type : none; */
+    list-style-type: none;
+}
